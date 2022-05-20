@@ -1,0 +1,17 @@
+# > myTV SUPER TVB
+PROCESS-NAME,com.tvb.mytvsuper
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+DOMAIN,bcbolt446c5271-a.akamaihd.net
+DOMAIN,edge.api.brightcove.com
+DOMAIN-SUFFIX,bigbigchannel.com.hk
+DOMAIN-SUFFIX,bigbigshop.com
+DOMAIN-SUFFIX,content.jwplatform.com
+DOMAIN-SUFFIX,mytvsuperlimited.hb.omtrdc.net
+DOMAIN-SUFFIX,mytvsuperlimited.sc.omtrdc.net
+DOMAIN-SUFFIX,tvb.com.au
+DOMAIN-SUFFIX,tvbc.com.cn
+DOMAIN-SUFFIX,tvbeventpower.com.hk
+DOMAIN-SUFFIX,tvbweekly.com
+DOMAIN-SUFFIX,tvmedia.net.au
+DOMAIN-SUFFIX,videos-f.jwpsrv.com
